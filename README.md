@@ -13,7 +13,7 @@ yarn run dev
 The base url for app is. 
 
 ```bash
-https://doctor-zbap.onrender.com
+https://doctor-zbap.onrender.com/graphql
 ```
 
 ```
